@@ -1,0 +1,10 @@
+# Ignore commiting venv
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# sample test
+sample_test.py

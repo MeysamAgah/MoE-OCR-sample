@@ -1,0 +1,1 @@
+This projects involves sample OCR code for MoE AI assistant
